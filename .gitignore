@@ -1,0 +1,7 @@
+npm-debug.log
+node_modules
+
+tf-log/
+test-data/
+uploads/
+*.sqlite3
